@@ -1,0 +1,16 @@
+﻿The column names in a Shape file are limited to 10 characters
+This lists the short column name and the original column name in the database table
+-----------------------------------------------------------------------------------------------------
+
+CONTACT = CONTACT
+VERTICAL_C = VERTICAL_CRS
+VERTICAL_A = VERTICAL_ACCURACY
+LAYER_UPDA = LAYER_UPDATE
+CIP_CODE = CIP_CODE
+FILENAME = FILENAME
+SOURCE_RES = SOURCE_RESOLUTION
+ORIG_FID = ORIG_FID
+AREA_SQKM = AREA_SQKM
+AVAILABILI = AVAILABILITY
+HORIZONTAL = HORIZONTAL_CRS
+SOURCE_DAT = SOURCE_DATE
