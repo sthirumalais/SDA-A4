@@ -117,3 +117,6 @@ Data/Raster/Elevation/lgaDEM100m.tif
 clippedDEM.tif
 projDEM.tif
 Data/Raster/Elevation/lgaDEM100m.tif
+Data/Point/.DS_Store
+Data/Polygon/.DS_Store
+Data/Polygon/LGA/.DS_Store
